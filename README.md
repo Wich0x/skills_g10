@@ -1,6 +1,6 @@
 
 <!-- PROJECT SHIELDS -->
-[![Skills Tech][skills.tech]][skills-url] <br />
+<div align="center"> [![Skills Tech][skills.tech]][skills-url] <br />
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
 
@@ -11,6 +11,7 @@
   <a href="https://github.com/othneildrew/Best-README-Template">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
+</div>
 
   <h3 align="center">Best-README-Template</h3>
 
