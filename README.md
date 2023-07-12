@@ -1,6 +1,6 @@
 
 <!-- PROJECT SHIELDS -->
-[![Skills Tech][skills.tech]][skills-url]
+[![Skills Tech][skills.tech]][skills-url] <br />
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
 
