@@ -1,6 +1,6 @@
 
 <!-- PROJECT SHIELDS -->
-<div align="center"> [![Skills Tech][skills.tech]][skills-url]</div>
+[![Skills Tech][skills.tech]][skills-url]
 
 
 
